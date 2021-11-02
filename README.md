@@ -3,3 +3,5 @@
 🌈 I am learning HTML/CSS 
 ❄ you can contact me on my email: gabdrawed14@gmail.com 
 or in my discord: Still🍷#9648
+
+![Snake animation](https://github.com/StillHue)
